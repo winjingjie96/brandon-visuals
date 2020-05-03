@@ -638,3 +638,22 @@ Navlink style */
   color: white;
   text-decoration: none;
 }
+
+/* netlify identity  */
+.netlify-identity-menu {
+  color: white;
+  list-style: mone
+}
+
+
+.netlify-identity-signup {
+  color: white
+}
+
+.netlify-identity-login {
+  color: white
+}
+
+.netlify-identity-logout {
+  color: white
+}
